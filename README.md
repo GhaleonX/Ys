@@ -95,7 +95,8 @@ I’d also like to thank Mr. Jakes of Basement Brothers’ youtube channel for n
 
 The wonderful people of the #pc98_translation_discussion discord channel for language help, as well as pointing out additional resources, and the talented romhackers in the RHDI discord channel for various input and encouragement as the project progressed.
 
-Kaisaan & Fishbone for reaching out to me, inviting me to the GeoFront and Dandelion communities Danchou Xavier for linking me to the translated manual by generic_archiver on archive.org
+Kaisaan & Fishbone for reaching out to me, inviting me to the GeoFront and Dandelion communities 
+Danchou Xavier for linking me to the translated manual by generic_archiver on archive.org
 NightWolve for access to his Ys I Chronicles script for reference
 Neill Corlett for helping me get into romhacking 20 years ago and inspiring me to assembly hack
 RunningSnakes for helping me set up my wii to play PC88, PC98 and MSX
@@ -103,15 +104,15 @@ ian michael for helping me set up X1 Millennium on the Dreamcast
 Calico, ManxomeBromide, abridgewater, Mugi, danke, … probably a few others I can’t recall at the moment - I appreciate all of the input, insight, and interactions!
 
 Tools Used:
-Text Edit / Notepad
-Tile Molester
-WindHex/Hex Fiend
-m88
-quasi88
-quasi88-wii
-Random House Japanese-English English-Japanese Dictionary, Ballantine Books 10th Edition, 1996
-A Guide to Reading & Writing Japanese (Revised Ed), Charles E. Tuttle Company 77th printing, 1996
-google
-Rannome (https://rcktrncn.github.io/mysite)
-generic_archiver’s Ys I PC-88 Manual Scan + Translation
-youtube: BulletEyeGames, sayak@, LaTanaDiMrX, U Can Beat Video Games, Basement Brothers
+• Text Edit / Notepad
+• Tile Molester
+• WindHex/Hex Fiend
+• m88
+• quasi88
+• quasi88-wii
+• Random House Japanese-English English-Japanese Dictionary, Ballantine Books 10th Edition, 1996
+• A Guide to Reading & Writing Japanese (Revised Ed), Charles E. Tuttle Company 77th printing, 1996
+• google
+• Rannome (https://rcktrncn.github.io/mysite)
+• generic_archiver’s Ys I PC-88 Manual Scan + Translation
+• youtube: BulletEyeGames, sayak@, LaTanaDiMrX, U Can Beat Video Games, Basement Brothers
