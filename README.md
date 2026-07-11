@@ -17,7 +17,7 @@ This has been a fun project that I’ve immersed myself in over the past several
     * "Shop" or "House" text boxes can now support infinite additional "windows" within the same event. 
     * “Book Emulation” for the books to look more like books when you read them!
 
-![PC-88: Reading a Book of Ys](PC-88/Snapshots/Ys (Disk B)0015.bmp)
+![PC-88: Reading a Book of Ys](PC-88/Snapshots/Ys (Disk B)0015.bmp?raw=yes)
 
 #### SharpX1:
 
