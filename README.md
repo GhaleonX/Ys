@@ -16,6 +16,7 @@ This has been a fun project that I’ve immersed myself in over the past several
     * "Normal" or "Field" text boxes can now support more than one text box in the same event. Previously, each text window was a single use deal, but now additional windows can be cascaded.
     * "Shop" or "House" text boxes can now support infinite additional "windows" within the same event. 
     * “Book Emulation” for the books to look more like books when you read them!
+
 ![PC-88: Reading a Book of Ys](PC-88/Snapshots/Ys (Disk B)0015.bmp)
 
 #### SharpX1:
@@ -34,11 +35,15 @@ This has been a fun project that I’ve immersed myself in over the past several
     * Secondary font for "highlighting"
     * Tertiary font for Inventory - Originally, the highlighting on this screen is not very apparent. The new color scheme is a bit more distinct.
 * 'ENEMY' text on HUD changed to match other versions
+
 ![MSX2: List of Books](MSX2/Snapshots/Snap03.png)
+
 #### Fujitsu Micro FM-7/FM77AV and PC-98:
 
 * Font - Custom ligature glyphs allow for a faux-text scaling effect, which helps with the limited display area for text in shops & houses.
+
 ![FM-7: Goban's Regret](FM-7/Snapshots/SNAP11.png)
+
 ## Translation Notes
 This translation aims for a balance between honoring the original vision while taking newer entries into consideration. I wanted to be true to Tomoyoshi Miyazaki’s & Masaya Hashimoto's vision first and foremost, so I sought to _understand_ the game as best I could. It’s interesting how playing through a game while translating it will give you a certain kind of perspective of things, and then learning more about the sources of inspiration for things may either enhance or even change that perspective completely!
 
