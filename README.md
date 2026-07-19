@@ -49,7 +49,7 @@ This translation aims for a balance between honoring the original vision while t
 
 It seems almost every single version of Ys I is largely based on the script of the original PC-88 release, and in the cases of the Sharp X1, MSX2, FM-7, FM-77AV, and PC-98 releases is virtually identical (and the English MS-DOS and Apple II GS releases are fairly accurate translations of this original script, too)! With this in mind, the various translation differences we’ve seen over the years become more intriguing, and give a deeper insight to the script as a whole.
 
-![Donis explains his plight](PC-88/Snapshots/Ys (Disk A)0030.bmp)
+![Donis explains his plight](SNAPS/8802.png)
 
 For example, in the bar you meet a man who lost something. The original MS-DOS/Apple II GS releases [correctly] translate his words to indicate the object was a gift for his mother. However, the English localization for the Turbo Duo remake changed this to be a gift for his wife, and even the much more recent English release of Chronicles sticks with this idea (in all versions, he isn’t keen to return home without it). This is a very subtle thing, but I think it ends up making a very different character in the end:
 * The original version of the character seems to be holding his mother in a very high regard, and is in a state of despair because he wanted to do something special for her.
@@ -104,3 +104,7 @@ Ian Michael for helping me set up X1 Millennium on the Dreamcast
     * My General’s Channel | __Gaming Commercials 30: MSX Ys Commercial__
     * GCMC:ゲームCMコレクター | __Ys commercials “イース 関連CM集 1987 - 2017年”__
     * U Can Beat Video Games | _Ys Playthrough_
+
+$$
+\sum_{x=1}^{G}{nygmaSoft}
+$$
