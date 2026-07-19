@@ -78,11 +78,11 @@ Ian Michael for helping me set up X1 Millennium on the Dreamcast
 
 ### Tools/Resources Used:
 * Text Edit / Notepad
-* Microsoft Excel
+* Microsoft Excel (Great for recalculating pointers!)
 * Tile Molester
-* WindHex
+* WindHex (Script was dumped the longest way, manually)
 * Hex Fiend
-* m88
+* m88 (Excellent debugger!)
 * quasi88
 * quasi88-wii
 * Random House Japanese-English English-Japanese Dictionary, Ballantine Books 10th Edition, 1996
