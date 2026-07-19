@@ -90,7 +90,7 @@ Ian Michael for helping me set up X1 Millennium on the Dreamcast
 * generic_archiver’s Ys I PC-88 Manual Scan + Translation
 * Google search engine
 * Google translate (for additional reference)
-* Google AI (used to learn z80 assembly and help with debugging/reverse engineering via analysis ONLY)
+* Google AI (used to __learn__ z80 assembly and help with debugging/reverse engineering via _analysis_ ONLY; no dialog nor any code was written by AI)
 * Rannome (https://rcktrncn.github.io/mysite)
 * NightWolve’s Ys Chronicles script
 * XSEED’s Ys Chronicles script
