@@ -59,5 +59,3 @@
 To talk to stationary NPCs, walk into them. To talk to walking NPCs, let them walk into you.
 
 Combat is best performed when you are NOT centered against your opponent.
-
-> Note: This game does not run properly in DOSBox-X
