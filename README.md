@@ -89,8 +89,8 @@ Ian Michael for helping me set up X1 Millennium on the Dreamcast
 * A Guide to Reading & Writing Japanese (Revised Ed), Charles E. Tuttle Company 77th printing, 1996
 * generic_archiver’s Ys I PC-88 Manual Scan + Translation
 * Google search engine
-* Google translate
-* Google AI (used to learn z80 assembly and help with debugging/reverse engineering)
+* Google translate (for additional reference)
+* Google AI (used to learn z80 assembly and help with debugging/reverse engineering ONLY)
 * Rannome (https://rcktrncn.github.io/mysite)
 * NightWolve’s Ys Chronicles script
 * XSEED’s Ys Chronicles script
