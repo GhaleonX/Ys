@@ -78,6 +78,7 @@ Ian Michael for helping me set up X1 Millennium on the Dreamcast
 
 ### Tools/Resources Used:
 * Text Edit / Notepad
+* Microsoft Excel
 * Tile Molester
 * WindHex
 * Hex Fiend
