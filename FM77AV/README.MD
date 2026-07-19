@@ -1,3 +1,6 @@
+$$
+\sum_{x=1}^{G}{nygmaSoft}
+$$
 ## Ancient Ys Vanished - Omen
 - Platform: FM77AV
 - Developer: Nihon Falcom
