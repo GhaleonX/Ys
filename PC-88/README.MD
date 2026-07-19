@@ -1,3 +1,7 @@
+$$
+\sum_{x=1}^{G}{nygmaSoft}
+$$
+
 ## Ancient Ys Vanished - Omen
 - Platform: NEC PC-8801
 - Developer: Nihon Falcom
