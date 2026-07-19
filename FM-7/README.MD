@@ -1,5 +1,5 @@
 $$
-\sum_{x=1}^{G}{nygmaSoft}
+\sum_{x}^{G}{nygmaSoft}
 $$
 
 ## Ancient Ys Vanished - Omen
