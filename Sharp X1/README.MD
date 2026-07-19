@@ -1,4 +1,9 @@
+$$
+\sum_{x=1}^{G}\text{nygmaSoft}
+$$
+
 ## Ancient Ys Vanished - Omen
+
 - Platform: SharpX1
 - Developer: Nihon Falcom
 - Original Release Date: 26 June 1987
