@@ -21,9 +21,9 @@ $$
 
      The resulting file should match this:	
      
-     - CRC32: 7aa16e0c
-     - MD5: 3640dc8a752f5e57d9b175d237c31b4c
-     - SHA-1: 8e3b2a049fc38414aa5a5fc9ad76fca8251f37d5
+     - CRC32: 5b6a6394
+     - MD5: a7d5f2041536213a01cf0b05091b1edc
+     - SHA-1: 1808312ed32b8f48a242681724f547c6b4bd5c8f
 
 
 2: Play the game!
